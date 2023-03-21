@@ -3,8 +3,6 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import utils.Endpoints;
-import utils.TestUtil;
 
 public class BaseTest {
 
@@ -18,7 +16,7 @@ public class BaseTest {
     public void setup() {
         //Test Setup
         utils.RestAssuredUtil.setBaseURI(); //Setup Base URI
-        utils.RestAssuredUtil.setBasePath("api"); //Setup Base Path
+        utils.RestAssuredUtil.setBasePath(""); //Setup Base Path
         utils.RestAssuredUtil.setContentType(ContentType.JSON); //Setup Content Type
     }
 

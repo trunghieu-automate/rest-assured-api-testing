@@ -6,5 +6,5 @@ package utils;
 
 public enum ConfigMap {
     DEV,
-    PROD
+    KEY
 }

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4cf9d55-f7b9-4fbc-be5a-f9d2d321d689" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Endpoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ConfigMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/GlobalConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/GlobalConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BasicApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BasicApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/Endpoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/RestAssuredUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RestAssuredUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configs/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N7soCgYaL7wuIodyVvZZUsi3Z1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/hieu.vu/api-restAssured-testing-basic/basic-api-automation-restAssured/restAssured-api-testing/src/main/java/utils&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\hieu.vu\api-restAssured-testing-basic\basic-api-automation-restAssured\restAssured-api-testing\src\main\java\utils" />
+      <recent name="D:\hieu.vu\api-restAssured-testing-basic\basic-api-automation-restAssured\restAssured-api-testing\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BasicApiTest.T5_PutRequestThenPrintResponse">
+    <configuration name="BasicApiTest.T01_GetStatusCodeThenPrintResponseObject" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssured-api-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicApiTest" />
+      <option name="METHOD_NAME" value="T01_GetStatusCodeThenPrintResponseObject" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApiTest.T02_GetRandomRequestThenPrintSomeProperties" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssured-api-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicApiTest" />
+      <option name="METHOD_NAME" value="T02_GetRandomRequestThenPrintSomeProperties" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApiTest.T03_SchemeValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssured-api-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicApiTest" />
+      <option name="METHOD_NAME" value="T03_SchemeValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApiTest.T04_postRequestThanPrintResposeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssured-api-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicApiTest" />
+      <option name="METHOD_NAME" value="T04_postRequestThanPrintResposeTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApiTest.T5_PutRequestThenPrintResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="restAssured-api-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicApiTest" />
+      <option name="METHOD_NAME" value="T5_PutRequestThenPrintResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BasicApiTest.T5_PutRequestThenPrintResponse" />
+        <item itemvalue="TestNG.BasicApiTest.T04_postRequestThanPrintResposeTest" />
+        <item itemvalue="TestNG.BasicApiTest.T03_SchemeValidation" />
+        <item itemvalue="TestNG.BasicApiTest.T02_GetRandomRequestThenPrintSomeProperties" />
+        <item itemvalue="TestNG.BasicApiTest.T01_GetStatusCodeThenPrintResponseObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4cf9d55-f7b9-4fbc-be5a-f9d2d321d689" name="Changes" comment="" />
+      <created>1679026627514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679026627514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
